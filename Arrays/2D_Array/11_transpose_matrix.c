@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 int main(){
-    int i, j, rows, cols, constant;
+    int i, j, rows, cols;
     printf("Enter the rows and columns of matrix: ");
     scanf("%d%d", &rows, &cols);
     int mat[rows][cols];
