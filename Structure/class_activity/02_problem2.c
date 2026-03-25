@@ -1,4 +1,6 @@
-
+/* write a program to accept name, rollnumber, and marks in 5 subjects of 5 students
+   and calculate total marks and average of each students . 
+   Display the students details if average marks is greater than 60. */
 
 #include<stdio.h>
 struct student{
