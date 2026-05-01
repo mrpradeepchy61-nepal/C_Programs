@@ -6,4 +6,7 @@ int main() {
         count++;
     }
     printf("Characters in file: %d", count);
+    
+    fclose(fp);
+    return 0;
 }
